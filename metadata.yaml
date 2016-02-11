@@ -1,0 +1,23 @@
+_repo: Kirkcaldy-of-Grange_49019
+creator:
+  author:
+    agent_name: Barbé, Louis A.
+    birthdate: 1845
+    deathdate: 1926
+    gutenberg_agent_id: '43441'
+    url: http://www.gutenberg.org/2009/agents/43441
+    wikipedia: https://en.wikipedia.org/wiki/Louis_Auguste_Barb%C3%A9
+description: ''
+gutenberg_bookshelf: Famous Scots Series
+gutenberg_issued: '2015-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kirkcaldy, William, Sir, d. 1573'
+title: Kirkcaldy of Grange
+url: http://www.gutenberg.org/ebooks/49019
